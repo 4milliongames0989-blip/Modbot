@@ -1,6 +1,6 @@
 # 4MG Moderation Bot
 
-**Open-source Discord moderation bot by [4 Million Games](https://github.com/)**
+**Open-source Discord moderation bot by [4 Million Games](https://discord.gg/s2TvC2r3aJ)**
 
 A full moderation toolkit for Discord: bans, mutes, warns, kicks, appeals, roles, command permissions, and a panel-based AutoMod system. Data can be stored in a local JSON file, MongoDB, or a private Discord channel.
 
